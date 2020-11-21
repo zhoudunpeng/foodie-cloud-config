@@ -1,6 +1,6 @@
 # 数据库链接 & 密码
 mariadb:
-    url: 'jdbc:mysql://192.168.61.130:3306/foodie-shop-dev?useAffectedRows=true&useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&serverTimezone=UTC&useSSL=false&verifyServerCertificate=false&autoReconnct=true&autoReconnectForPools=true&allowPublicKeyRetrieval=true&zeroDateTimeBehavior=convertToNull'
+    url: 'jdbc:mysql://127.0.0.1:3306/foodie-shop-dev?useAffectedRows=true&useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&serverTimezone=UTC&useSSL=false&verifyServerCertificate=false&autoReconnct=true&autoReconnectForPools=true&allowPublicKeyRetrieval=true&zeroDateTimeBehavior=convertToNull'
     password: '{cipher}4838dfa30d2d5794281cc5f8956d2706363363191025c10425ffc474a83bef1a'
 
 # 功能开关 - 开启/关闭功能
