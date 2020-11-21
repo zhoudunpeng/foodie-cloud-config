@@ -6,6 +6,6 @@ mariadb:
 # 功能开关 - 开启/关闭功能
 userservice:
   registration:
-    disabled: false
+    disabled: true
 
 # actor
